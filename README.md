@@ -17,7 +17,7 @@ El método "incident_status" de la clase Store recibe dos fechas y debe devolver
 
 ## Installation and project dependencies
 
-1. Clone repository: `git clone https://github.com/tu_usuario/tu_proyecto.git`
+1. Clone repository: `git clone https://github.com/al-byrnison/ts-store-class.git`
 2. Install node 16 <=
 3. Install TypeScript: `npm install -g typescript`
 
